@@ -10,7 +10,7 @@ Robot.
 
 GUI.
 <p align="center">
-	<img width="432" height="547" src="/images/gui.PNG"
+	<img width="547" height="432" src="/images/gui.PNG"
 </p>
 
 ## Example video
