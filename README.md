@@ -5,12 +5,12 @@ This is a robot that can come out of a labyrinth, where the exit is a full black
 
 Robot.
 <p align="center">
-	<img width="720" height="480" src="/images/robot.jpeg"
+	<img width="324" height="432" src="/images/robot.jpeg"
 </p>
 
 GUI.
 <p align="center">
-	<img width="720" height="480" src="/images/gui.PNG"
+	<img width="432" height="547" src="/images/gui.PNG"
 </p>
 
 ## Example video
