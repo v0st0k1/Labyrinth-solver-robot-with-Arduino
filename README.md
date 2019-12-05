@@ -1,6 +1,11 @@
 # Labyrinth solver robot
 This is a robot that can come out of a labyrinth, where the exit is a full black cell.
 
+## Authors
+* **Aarón Arias Pérez** [@aaronariasperez](https://github.com/aaronariasperez)
+* **Carlos Guzmán Cabrera** [@carlos_guzca](https://github.com/v0st0k1)
+* **Francisco Alejandro Naranjo Castañeda**
+
 ## Images
 
 Robot.
@@ -22,8 +27,4 @@ GUI.
 * [pygame](https://www.pygame.org/wiki/about) - The library used to create the GUI
 * [pyserial](https://pypi.org/project/pyserial/) - The library used for bluetooth communication
 
-## Authors
-* **Aarón Arias Pérez**
-* **Carlos Guzmán Cabrera**
-* **Francisco Alejandro Naranjo Castañeda**
 
